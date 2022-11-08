@@ -1,0 +1,14 @@
+C:\Users\J.E Funez\source\repos\Watches\Watches\bin\Debug\Watches.exe.config
+C:\Users\J.E Funez\source\repos\Watches\Watches\bin\Debug\Watches.exe
+C:\Users\J.E Funez\source\repos\Watches\Watches\bin\Debug\Watches.pdb
+C:\Users\J.E Funez\source\repos\Watches\Watches\obj\Debug\Watches.csproj.AssemblyReference.cache
+C:\Users\J.E Funez\source\repos\Watches\Watches\obj\Debug\Watches.Form1.resources
+C:\Users\J.E Funez\source\repos\Watches\Watches\obj\Debug\Watches.Properties.Resources.resources
+C:\Users\J.E Funez\source\repos\Watches\Watches\obj\Debug\Watches.csproj.GenerateResource.cache
+C:\Users\J.E Funez\source\repos\Watches\Watches\obj\Debug\Watches.csproj.CoreCompileInputs.cache
+C:\Users\J.E Funez\source\repos\Watches\Watches\obj\Debug\Watches.exe
+C:\Users\J.E Funez\source\repos\Watches\Watches\obj\Debug\Watches.pdb
+C:\Users\jfune\OneDrive\Desktop\Academia X\projectos\Watches\Watches\obj\Debug\Watches.csproj.AssemblyReference.cache
+C:\Users\jfune\OneDrive\Desktop\Academia X\projectos\Watches\Watches\obj\Debug\Watches.csproj.SuggestedBindingRedirects.cache
+C:\Users\jfune\OneDrive\Desktop\Academia X\projectos\Watches\Watches\obj\Debug\Watches.exe
+C:\Users\jfune\OneDrive\Desktop\Academia X\projectos\Watches\Watches\obj\Debug\Watches.pdb
